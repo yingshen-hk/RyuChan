@@ -120,7 +120,7 @@ github:
   encryptKey: KoBariDevYa
 umami:
   enable: true
-  baseUrl: https://cloud.umami.is/
+  baseUrl: https://cloud.umami.is
   shareId: YMYU9loGL20vl3Ps
   websiteId: 58c5d6ee-1160-4461-a457-a9ae5548fc5e
   timezone: Asia/Shanghai
